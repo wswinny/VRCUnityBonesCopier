@@ -1,0 +1,14 @@
+{
+  "name": "com.swinny.vrcavatarbonemerger",
+  "version": "0.1.0",
+  "displayName": "VRCAvatarBoneMerger",
+  "description": "VRC Avatar Bone Merger is a tool for Unity that allows you to copy bones from an old prefab to a new prefab and avoid all that annoying manual work",
+
+  "unity": "2019.4",
+  "dependencies": {},
+  "documentationUrl": "https://github.com/wswinny/VRCUnityBonesCopier",
+
+  "keywords": ["VRChat", "DynamicBones", "tools"],
+  "author": { "name" : "Swinny",
+    "url" : "https://github.com/wswinny" }
+}

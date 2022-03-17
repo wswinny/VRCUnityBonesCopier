@@ -7,7 +7,8 @@ public class VRCAvatarBonesMerger : EditorWindow
     private GameObject baseAvatar;
     private GameObject newAvatar;
 
-    private GenericEntityMerge<DynamicBoneCollider> dynamicBoneColliderMerger = new GenericEntityMerge<DynamicBoneCollider>();
+    private GenericEntityMerge<DynamicBoneCollider> dynamicBoneColliderMerger =
+        new GenericEntityMerge<DynamicBoneCollider>();
     private GenericEntityMerge<DynamicBone> dynamicBoneMerger = new GenericEntityMerge<DynamicBone>();
 
     [MenuItem("Avatar Tools/Avatar Bones Merger")]

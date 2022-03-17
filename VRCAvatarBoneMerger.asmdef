@@ -1,0 +1,4 @@
+﻿{
+	"name": "VRCAvatarBoneMerger",
+	"includePlatforms": ["Editor"]
+}
